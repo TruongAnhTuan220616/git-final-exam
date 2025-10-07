@@ -1,3 +1,2 @@
-- Git giúp người dùng dễ quản lý phiên bản.
-- Dễ theo dõi những thay đổi.
-- Là công cụ quan trọng với người dùng.
+- Học Git rất vui.
+- Giúp làm việc nhóm hiệu quả.
