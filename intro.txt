@@ -1,12 +1,6 @@
-Giới thiệu bản thân
-Tôi là Trương Anh Tuấn.
-Tôi học tại Trường Đại học Nam Cần Thơ.
-Tôi yêu thích công nghệ.
-Tôi muốn trở thành nhân viên văn phòng.
-Sở thích:
-1. Đọc sách
-2. Chơi thể thao
-Kỹ năng:
-1. Giao tiếp
-2. Làm việc nhóm
-3. Thuyết phục
+Kế hoạch học tập:
+- Ôn lại kiến thức Git.
+- Luyện tập lệnh branch, merge, stash.
+- Thực hành reset & revert.
+- Tìm hiểu thêm GitHub Actions.
+- Hoàn thành bài kiểm tra đúng hạn.
