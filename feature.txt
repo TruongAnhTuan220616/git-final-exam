@@ -1,0 +1,4 @@
+Tính năng mới:
+1. Xuất báo cáo nhanh
+2. Hiển thị thời gian commit
+3. Ghi log tự động
