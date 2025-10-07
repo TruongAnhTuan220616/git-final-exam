@@ -1,0 +1,9 @@
+Kế hoạch học tập 1 tuần:
+- Thứ 2: Hệ thống quản lý thông tin
+- Thứ 3: Lập trình Python
+- Thứ 4: Mã nguồn mở
+- Thứ 5: Lập trình di động
+- Thứ 6: Pháp luật công nghệ thông tin
+- Thứ 7: relax
+Ngày bắt đầu: 13/10/2025
+Ngày kết thúc: 19/10/2025
